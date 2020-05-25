@@ -1,0 +1,9 @@
+c:\users\dhl\documents\visual studio 2017\Projects\Ecilipse alarm clock\Ecilipse alarm clock\bin\Debug\Ecilipse alarm clock.exe.config
+c:\users\dhl\documents\visual studio 2017\Projects\Ecilipse alarm clock\Ecilipse alarm clock\bin\Debug\Ecilipse alarm clock.exe
+c:\users\dhl\documents\visual studio 2017\Projects\Ecilipse alarm clock\Ecilipse alarm clock\bin\Debug\Ecilipse alarm clock.pdb
+c:\users\dhl\documents\visual studio 2017\Projects\Ecilipse alarm clock\Ecilipse alarm clock\obj\Debug\Ecilipse_alarm_clock.Form1.resources
+c:\users\dhl\documents\visual studio 2017\Projects\Ecilipse alarm clock\Ecilipse alarm clock\obj\Debug\Ecilipse_alarm_clock.Properties.Resources.resources
+c:\users\dhl\documents\visual studio 2017\Projects\Ecilipse alarm clock\Ecilipse alarm clock\obj\Debug\Ecilipse alarm clock.csproj.GenerateResource.Cache
+c:\users\dhl\documents\visual studio 2017\Projects\Ecilipse alarm clock\Ecilipse alarm clock\obj\Debug\Ecilipse alarm clock.exe
+c:\users\dhl\documents\visual studio 2017\Projects\Ecilipse alarm clock\Ecilipse alarm clock\obj\Debug\Ecilipse alarm clock.pdb
+C:\Users\DHL\Documents\Visual Studio 2017\Projects\Ecilipse alarm clock\Ecilipse alarm clock\obj\Debug\Ecilipse alarm clock.csprojResolveAssemblyReference.cache
